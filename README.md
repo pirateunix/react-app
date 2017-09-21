@@ -18,7 +18,7 @@
 
 [http://localhost:3000/](http://localhost:3000/)
 
-## Coздать БД node и создать таблицЫ:
+## Coздать БД node и создать таблицы:
 ```
  CREATE TABLE `Department` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
